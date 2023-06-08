@@ -73,4 +73,4 @@ This repository contains resources and information on probability and statistics
 
 This section provides additional resources, including books, online courses, and research papers, to further enhance your understanding of probability and statistics in computer science.
 
-- [Book: "Probability and Statistics for Computer Scientists" by Michael Baron]([https://www.springer.com/gp/book/9781852338961](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf))
+- [Book: "Probability and Statistics for Computer Scientists" by Michael Baron](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf)
